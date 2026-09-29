@@ -10,3 +10,5 @@ venv/
 .venv/
 .env
 chaves_config.py
+.env
+chaves_config.py
