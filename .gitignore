@@ -8,3 +8,5 @@ __pycache__/
 backup_*/
 venv/
 .venv/
+.env
+chaves_config.py
