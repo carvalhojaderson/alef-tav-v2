@@ -1,7 +1,10 @@
-﻿.env
+.env
 chaves_config.py
 .streamlit/secrets.toml
 __pycache__/
 *.pyc
+*.pyo
+*.bak
+backup_*/
 venv/
 .venv/
